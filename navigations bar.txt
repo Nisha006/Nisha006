@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>MyPage</title>
+<style>
+</style>
+</head>
+<body>
+<input type="button" value="success" class="sbtn">
+<input type="button" value="info" class="ibtn">
+<input type="button" value="warning" class="wbtn">
+<input type="button" value="error" class="ebtn">
+</body>
+</html>
